@@ -6,5 +6,5 @@ Here is an opinionated how-to for anyone interested in starting a career in Data
 I hope it becomes beneficial to someone out there.
 
 
-[@Ola](https://uk.linked.com/in/oladipupo) 
+[@Ola](https://www.linkedin.com/in/purpose-driven-engineer)
 
